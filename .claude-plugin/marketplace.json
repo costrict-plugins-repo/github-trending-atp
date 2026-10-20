@@ -1,0 +1,16 @@
+{
+  "name": "adi-atp-plugin",
+  "owner": {
+    "name": "BigSmall AI",
+    "email": "son@bigsmallai.com"
+  },
+
+  "plugins": [
+    {
+      "name": "atp",
+      "source": "./",
+      "description": "Design, spec, and evaluate crypto exchange features — grounded in Vietnamese law, security incidents, and protocol analysis. From idea to actionable solutions in minutes.",
+      "version": "1.0.0"
+    }
+  ]
+}

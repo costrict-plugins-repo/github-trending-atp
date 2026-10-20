@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "atp": {
+      "type": "http",
+      "url": "https://atp-mcp.bigsmallai.com/mcp"
+    }
+  }
+}
